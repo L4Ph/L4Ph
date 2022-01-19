@@ -1,7 +1,7 @@
 ### Hi Im Katsuyuki-Karasawa 👋
 
 contact me? --> [here](mailto:4ranci0me@gmail.com)  
-My Website --> [Go!](https://katsuyuki-karasawa.github.io/Portfolio/)
+My Website --> [Go!](https://katsuyuki-karasawa.pages.dev)
 
 <!--
 **Katsuyuki-Karasawa/Katsuyuki-Karasawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
