@@ -4,12 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katsuyuki-karasawa" alt="katsuyuki-karasawa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ktsyk_krsw" target="blank"><img src="https://img.shields.io/twitter/follow/ktsyk_krsw?logo=twitter&style=for-the-badge" alt="ktsyk_krsw" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ktsyk_krsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ktsyk_krsw" height="30" width="40" /></a>
 <a href="https://fb.com/katsuyuki.karasawa.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="katsuyuki.karasawa.io" height="30" width="40" /></a>
 </p>
 
