@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katsuyuki Karasawa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katsuyuki-karasawa&label=Profile%20views&color=0e75b6&style=flat" alt="katsuyuki-karasawa" /> </p>
+![:Katsuyuki-Karasawa](https://count.getloli.com/get/@:name)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katsuyuki-karasawa" alt="katsuyuki-karasawa" /></a> </p>
 
