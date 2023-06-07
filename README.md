@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Katsuyuki Karasawa</h1>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&pause=1000&color=66B9D2&background=B3DCE2&center=true&vCenter=true&width=435&lines=Hi+Im+Katsuyuki+Karasawa!;Discord%3A+R0w9h%234533)](https://git.io/typing-svg)
 
 ![:Katsuyuki-Karasawa](https://count.getloli.com/get/@:name)  
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katsuyuki-karasawa" alt="katsuyuki-karasawa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
